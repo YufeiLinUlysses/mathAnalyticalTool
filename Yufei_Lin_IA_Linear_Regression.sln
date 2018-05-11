@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yufei_Lin_IA_Linear_Regression", "Yufei_Lin_IA_Linear_Regression\Yufei_Lin_IA_Linear_Regression.csproj", "{C2260B29-4723-4E82-AF29-ACB5C866BD20}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Linear_Regression", "Linear_Regression\Linear_Regression.vdproj", "{31D512F7-D355-4395-A5BD-80F086BB528B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2260B29-4723-4E82-AF29-ACB5C866BD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2260B29-4723-4E82-AF29-ACB5C866BD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2260B29-4723-4E82-AF29-ACB5C866BD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2260B29-4723-4E82-AF29-ACB5C866BD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D512F7-D355-4395-A5BD-80F086BB528B}.Debug|Any CPU.ActiveCfg = Debug
+		{31D512F7-D355-4395-A5BD-80F086BB528B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
